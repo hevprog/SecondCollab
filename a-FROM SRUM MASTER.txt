@@ -5,7 +5,7 @@ Sprint details: A very simple platformer! Do not overcomplicate :)
 
 -------------------
 From henry
-"To compile all your code to EXE type >>> make run. Automatically compile all files in the src folder and to debug type >>> make debug.
+"To compile all your code to EXE type >>> make run, automatically compile all files in the src folder and to debug type >>> make debug.
  Ensure that cpp file is in the src folder and your header file if you have any in include or src/Headers path."
 
 -------------------
