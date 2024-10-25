@@ -1,0 +1,12 @@
+Sprint details: A very simple platformer! Do not overcomplicate :)
+
+1. A must have a player to control.
+2. A level to play around.
+
+-------------------
+From henry
+"To compile all your code to EXE type >>> make run. Automatically compile all files in the src folder and to debug type >>> make debug.
+ Ensure that cpp file is in the src folder and your header file if you have any in include or src/Headers path."
+
+-------------------
+Your NOTES:
